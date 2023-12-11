@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>594355707328-u84avb5j78318k4uetoroefrvfcu0uam.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.594355707328-u84avb5j78318k4uetoroefrvfcu0uam</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>594355707328-7h6p2uovc3iq85lr63bqhfa2gjfgm89n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSgCe_bdFbnW1HSe4J1Q0ULYF2mW1MKiI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>594355707328</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.technibat</string>
+	<key>PROJECT_ID</key>
+	<string>technibat-582d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>technibat-582d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:594355707328:ios:778a716b3bf157ad897c25</string>
+</dict>
+</plist>

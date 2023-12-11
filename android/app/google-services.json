@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "594355707328",
+    "project_id": "technibat-582d7",
+    "storage_bucket": "technibat-582d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594355707328:android:9ef404583fe64e88897c25",
+        "android_client_info": {
+          "package_name": "com.mycompany.technibat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594355707328-7h6p2uovc3iq85lr63bqhfa2gjfgm89n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.technibat",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "594355707328-vv2iip5h2qeph16i5a730qkl01jvucol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEgbiOrwjSGQsm2cbaCF9chD8yIppqMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594355707328-vv2iip5h2qeph16i5a730qkl01jvucol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594355707328-u84avb5j78318k4uetoroefrvfcu0uam.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.technibat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
